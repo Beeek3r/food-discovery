@@ -46,10 +46,10 @@ const card2 = {
 }
 
 const card3 = {
-  title: 'Food Wiki',
-  description: 'Disover new recipes to cook for your friends and family',
+  title: 'Nutrition Basics',
+  description: 'Learn the fundamentals of food nutrition such macronutrients and importance of portion control',
   image: './wiki.jpg',
-  url: '/nutritionestimator'
+  url: '/nutritionbasics'
 }
 
 export default Home

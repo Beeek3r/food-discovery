@@ -8,7 +8,7 @@ const NutritionBasics = () => {
         {/* Start of Row (Header) */}
         <div className="row justify-content-md-center mt-5">
           <div className="col-12">
-            <h1 className="text-center">Nutrition Basics (Testing 1,2,3)</h1>
+            <h1 className="text-center">Nutrition Basics</h1>
           </div>
         </div>
         <hr />
